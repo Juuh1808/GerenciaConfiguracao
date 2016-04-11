@@ -1,0 +1,2 @@
+# GerenciaConfiguracao
+Repositório para GC
